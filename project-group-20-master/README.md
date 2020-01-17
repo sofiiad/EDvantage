@@ -1,4 +1,4 @@
-# ECSE321 Group 20  [![Build Status](https://travis-ci.com/McGill-ECSE321-Fall2019/project-group-20.svg?token=ERzxJp8gWsvgA1YgDGwo&branch=Tests)](https://travis-ci.com/McGill-ECSE321-Fall2019/project-group-20)
+# EDvantage  [![Build Status](https://travis-ci.com/McGill-ECSE321-Fall2019/project-group-20.svg?token=ERzxJp8gWsvgA1YgDGwo&branch=Tests)](https://travis-ci.com/McGill-ECSE321-Fall2019/project-group-20)
 
 The **android deliverable** can be found in the orphan branch `android` : https://github.com/McGill-ECSE321-Fall2019/project-group-20/tree/android
 
@@ -51,37 +51,7 @@ git push heroku master
   - Build System, Continuous Integration, and Delivery
   
  All meetings for the Sprint 4 iteration can be found in the github 'wiki' 
-  ### Table - Individual Contributions
-
-|Deliverable number|Name |Team Role| Individual Efforts (hours)|
-|:------------:|:-----------|:------------|:-----------|
-|1|Adam Babs|Domain Model and Requirements Model|30|
-|1|Georges Mourant|Documentation Manager|30|
-|1|Imane Chafi|Project and Database Manager|30|
-|1|Mahroo Rahman|Non-Functional Requirements Software Lead|30|
-|1|Sofia Dieguez|UML Software Lead|30|
-|2|Adam Babs| RESTful services Software Lead|30|
-|2|Georges Mourant| RESTful services Software Engineer and Documentation Manager|30|
-|2|Imane Chafi|Testing Software Lead & RESTful Software Engineer|40|
-|2|Mahroo Rahman|SQA Co-Chair and Documentation assistant|30|
-|2|Sofia Dieguez|SQA Co-Chair and Documentation assistant|30|
-|3|Adam Babs|Software Architecture Lead|30|
-|3|Georges Mourant|Integration Engineer|30|
-|3|Imane Chafi|Integration Lead|30|
-|3|Mahroo Rahman|JavaScript Lead|30|
-|3|Sofia Dieguez|HTML & CSS Lead|30|
-|4|Adam Babs|Android Lead|15|
-|4|Georges Mourant|Android Engineer|15|
-|4|Imane Chafi|Android Engineer|15|
-|4|Mahroo Rahman|Android Engineer|15|
-|4|Sofia Dieguez|Android Engineer|15|
-|5|Adam Babs|Presenter|5|
-|5|Georges Mourant|Vocabulary Consultant|5|
-|5|Imane Chafi|Presenter|5|
-|5|Mahroo Rahman|Presenter|5|
-|5|Sofia Dieguez|Presenter|5|
-
-
+  
 # Project Wiki
 Project progress documentation including summaries and meeting minutes.
 
